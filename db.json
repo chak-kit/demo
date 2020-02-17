@@ -13,6 +13,8 @@
   },
   "catalogs": [
     { "id": 100, "catalogName": "Women", "category": "Sweater"},
-    { "id": 101, "catalogName": "Women", "category": "Dress"}
+    { "id": 101, "catalogName": "Women", "category": "Dress"},
+     { "id": 201, "catalogName": "Male", "category": "Trousers" },
+    { "id": 202, "catalogName": "Male", "category": "Ties" }
   ]
 }
