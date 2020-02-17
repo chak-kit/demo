@@ -13,7 +13,9 @@
   },
   "catalogs": [
     { "id": 100, "catalogName": "Women", "category": "Sweater"},
-    { "id": 1000, "catalogName": "Male", "category": "Nnjndje"},
-    { "id": 101, "catalogName": "Women", "category": "Dress"}
+    { "id": 1000, "catalogName": "Male", "category": "Ties"},
+    { "id": 1003, "catalogName": "Male", "category": "Trousers"},
+    { "id": 101, "catalogName": "Women", "category": "Dress"},
+    { "id": 1067, "catalogName": "Kids", "category": "Pampers"}
   ]
 }
