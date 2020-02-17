@@ -12,11 +12,7 @@
     "name": "typicode"
   },
   "catalogs": [
-    { "id": 100, "catalogName": "Women", "category": "Sweater",
-     "products": [
-       {"category": "Sweater", "name":"product 1"},
-       {"category": "Dress", "name":"product 2"}
-     
-     ]}
+    { "id": 100, "catalogName": "Women", "category": "Sweater"},
+    { "id": 101, "catalogName": "Women", "category": "Dress"}
   ]
 }
