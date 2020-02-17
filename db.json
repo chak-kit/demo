@@ -17,5 +17,5 @@
     { "id": 201, "catalogName": "Male", "category": "Trousers" },
     { "id": 202, "catalogName": "Male", "category": "Ties" },
     { "id": 301, "catalogName": "Kids", "category": "Pampers" }
-  ],
+  ]
 }
