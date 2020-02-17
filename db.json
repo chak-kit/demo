@@ -12,10 +12,11 @@
     "name": "typicode"
   },
   "catalogs": [
-    { "id": 100, "catalogName": "Women", "category": "Sweater"},
-    { "id": 101, "catalogName": "Women", "category": "Dress"},
-    { "id": 201, "catalogName": "Male", "category": "Trousers" },
-    { "id": 202, "catalogName": "Male", "category": "Ties" },
-    { "id": 301, "catalogName": "Kids", "category": "Pampers" }
+    { "id": 100, "catalogName": "Women", 
+     "products": [
+       {"category": "Sweater", "name":"product 1"},
+       {"category": "Dress", "name":"product 2"}
+     
+     ]}
   ]
 }
